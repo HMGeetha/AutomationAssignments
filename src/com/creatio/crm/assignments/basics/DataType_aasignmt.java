@@ -14,7 +14,7 @@ public class DataType_aasignmt {
 
 		boolean Order = true;
 		System.out.println("Customer  placed an order: " + Order);
-
+						
 		// Person's phone number: "123-456-7890"
 		// Phone numbers are best stored as strings to preserve formatting.
 
